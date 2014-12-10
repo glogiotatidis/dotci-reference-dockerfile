@@ -1,0 +1,3 @@
+image: giorgos/ubuntu-git
+command:
+  python test.py
