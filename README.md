@@ -1,7 +1,8 @@
 # DotCI Reference Project using Dockerfiles
 
 This is a simple Python test project to serve as a reference on how to
-setup [DotCI](https://github.com/groupon/DotCi) using Dockerfiles.
+setup [DotCI](https://github.com/groupon/DotCi) using Dockerfiles. There is also another
+[reference project using Docker images](https://github.com/glogiotatidis/dotci-reference-docker).
 
 ## Notes
 * Make sure that `Dockerfile Build` is the selected `Build Type` in
